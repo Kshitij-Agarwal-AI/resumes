@@ -1,0 +1,112 @@
+---
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - top=0.75in
+      - bottom=0.75in
+      - left=0.75in
+      - right=0.75in
+---
+# Kshitij Agarwal{style="text-align: center;"}
+
+::: {style="text-align: center;"}
+**Data Scientist**
+
+**Email:** [kshitij.agarwal.ai@gmail.com](mailto:kshitij.agarwal.ai@gmail.com) | **Phone:** +1 (672) 962-2482 | **Location:** Vancouver, BC  
+**LinkedIn:** [/kshitij-agarwal](http://www.linkedin.com/in/kshitij-agarwal) | **Status:** Permanent Resident of Canada
+:::
+
+## Professional Summary
+
+Data scientist with over 10 years of experience leveraging an engineering foundation to solve complex challenges through probabilistic and statistical modeling. Proven track record across domains:
+
+- Built a mathematical model of human neurological posture control.
+- Designed real-time closed-loop algorithms running **24/7** on industrial drilling rigs to detect dysfunctions, saving millions of dollars.
+- Architected enterprise data quality automation scanning over **1,000,000** banking datasets.
+- Partnered with leading AI labs (OpenAI, Microsoft via Turing) delivering **RLHF** to improve **LLM Python code** generation and agentic tool-calling workflows.
+
+
+## Technical Skills
+
+- **Languages:** Python, SQL, R, MATLAB, Java
+- **Data & ML / AI:** Machine Learning, Statistical Modeling, RLHF, Agentic AI, PySpark, Pandas, DB2, BigQuery, Hadoop
+- **Tools & Platforms:** Google Cloud Platform (GCP), Airflow, Docker, Git, CLI, iOS Development
+- **Spoken Languages:** English (Proficient), Hindi (Native)
+
+
+## Relevant Experience
+
+### **Senior Developer** 
+Turing Enterprises (*Remote*) \hfill Jun 2025 – Dec 2025
+
+- **LLM Code Generation Enhancement (OpenAI / Microsoft):**
+  - Addressed code hallucination and syntax errors in early frontier models (GPT-4 and o1).
+  - Designed complex coding scenarios and evaluated outputs with rigorous RLHF feedback, directly improving the generation of robust, production-grade Python code.
+- **Agentic AI Reasoning & Tool Calling (OpenAI / Microsoft):**
+  - Targeted multi-step reasoning bottlenecks and API/tool-calling failures on complex tasks (e.g., booking workflows, long-context reviews).
+  - Supervised and rectified model outputs via RLHF protocols, empowering subsequent model revisions to handle autonomous multi-step agent actions.
+
+### **Manager, Data Quality and Innovations** 
+Bank of Nova Scotia  (*Toronto, ON*) \hfill Jun 2022 – Jul 2024
+
+- **Data Quality Automation & Pipeline Architecture:**
+  - Modernized legacy manual validation routines across more than $1,000,000$ internal banking datasets.
+  - Architected PySpark ETL pipelines aggregating data from Hadoop, DB2, GCP, and local storage.
+  - Deployed automated data profiling alongside a Pandas-based anomaly detection framework incorporating SME feedback loops for remediation.
+  - Cut manual processing costs by **$26 million**, increased data management operational productivity by **40%**, and ensured data integrity for downstream AI products.
+
+### **Research Engineer** 
+Pason Systems Inc. (*Calgary, AB*) \hfill Aug 2018 – Jun 2022
+
+- **Real-Time Drilling Dysfunction Detection & Mitigation Algorithm:**
+  - Designed an autonomous, closed-loop real-time time-series algorithm in Java to mitigate equipment damage while maximizing drilling speed.
+  - Achieved a **99% dysfunction detection rate** and drove a **10% increase** in commercial product adoption.
+- **Rotary Speed Optimization for Rate-of-Penetration (ROP):**
+  - Collaborated with ExxonMobil to develop a Java-based algorithm optimizing drill bit rotary speed (RPM) in tandem with weight-on-bit (WOB).
+  - Validated the system during active field trials across commercial rigs.
+- **Predictive ROP Limiting Algorithm:**
+  - Built a proactive predictive model in Java that dynamically capped ROP prior to dysfunction onset.
+- **In-House MATLAB Simulation Platform:**
+  - Created a closed-loop drilling simulator in MATLAB, reducing dependency on physical QA hardware racks and significantly shortening R&D release cycles.
+
+### **Research Assistant** 
+University of Alberta (*Edmonton, AB*) \hfill Sep 2016 – Sep 2018
+
+- **Theoretical Model for Human Postural Control:**
+  - Investigated disrupted neuromuscular pathways caused by stroke and neurological disorders during seated balance.
+  - Executed clinical biomechanical trials, conducted digital signal processing, and formulated a theoretical mathematical model explaining neural control of human upright sitting posture.
+
+
+## Other Experience
+
+- **Senior Consultant** | EXL Services (*Gurgaon, HR*) \hfill Feb 2025 - Jun 2025  
+  Implemented automated data quality pipelines with proactive anomaly detection to minimize manual oversight.
+- **Manager** | Himalaya Developers (*Rishikesh, UK*) \hfill Jun 2024 – Feb 2025, Dec 2025 - Aug 2026  
+  Directed end-to-end execution of two residential projects valued at \$3.2M over 18 months (procurement, licensing, civil engineering teams, financial modeling, and sales).
+- **iOS Developer** | Pakshi Inc. (*Calgary, AB*) \hfill Jan 2020 – Jan 2022  
+  Engineered and shipped two native iOS applications (*More ToLife* and *RoboTask*), managing launch pipelines and digital acquisition strategies.
+
+
+## Education
+
+- **Master of Data Science (MDS)**  
+  *University of British Columbia*, Vancouver, BC \hfill 2026 – Ongoing
+- **Master of Science (M.Sc.)**  
+  *University of Alberta*, Edmonton, AB \hfill 2016 – 2018
+- **Bachelor of Technology (B.Tech. with Double Major)**  
+  *Indian Institute of Technology (IIT) Kanpur*, Kanpur, UP \hfill 2011 – 2016
+
+
+## Patents & Credentials
+
+### **Patent**
+- [US11499411B2](https://patents.google.com/patent/US11499411B2/)
+
+### **Certifications**
+- [Advanced Agentic AI](https://learn.deeplearning.ai/certificates/aafc2a82-f830-4f6a-ad14-8f9affe643a9)
+- [LangChain for LLM Development](https://learn.deeplearning.ai/accomplishments/69e2cafa-17e3-413a-bcee-ae3a856e45eb)
+- [Machine Learning (Stanford / Coursera)](https://www.coursera.org/account/accomplishments/verify/AYZWKCQ6Q8CT)
+- [Machine Learning Engineer Certificate](https://www.linkedin.com/in/kshitij-agarwal/details/certifications/)
+- [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/certificate/2KNWTNKQT4QD)
+- [Exploring and Preparing your Data with BigQuery](https://www.coursera.org/account/accomplishments/certificate/PDBW2K96WS9C)
