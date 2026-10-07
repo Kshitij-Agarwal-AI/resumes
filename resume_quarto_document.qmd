@@ -1,5 +1,7 @@
 ---
 format:
+  html:
+    toc: true
   pdf:
     documentclass: article
     geometry:
@@ -8,23 +10,22 @@ format:
       - left=0.75in
       - right=0.75in
 ---
-# Kshitij Agarwal{style="text-align: center;"}
+# \Huge Kshitij Agarwal
 
-::: {style="text-align: center;"}
 **Data Scientist**
 
 **Email:** [kshitij.agarwal.ai@gmail.com](mailto:kshitij.agarwal.ai@gmail.com) | **Phone:** +1 (672) 962-2482 | **Location:** Vancouver, BC  
-**LinkedIn:** [/kshitij-agarwal](http://www.linkedin.com/in/kshitij-agarwal) | **Status:** Permanent Resident of Canada
-:::
+
+**LinkedIn:** [/kshitij-agarwal](http://www.linkedin.com/in/kshitij-agarwal) | **Status:** Permanent Resident of Canada   
 
 ## Professional Summary
 
-Data scientist with over 10 years of experience leveraging an engineering foundation to solve complex challenges through probabilistic and statistical modeling. Proven track record across domains:
+Data scientist with over **10 years** of experience leveraging an engineering foundation to solve complex challenges through probabilistic and statistical modeling. Proven track record across domains:
 
 - Built a mathematical model of human neurological posture control.
-- Designed real-time closed-loop algorithms running **24/7** on industrial drilling rigs to detect dysfunctions, saving millions of dollars.
-- Architected enterprise data quality automation scanning over **1,000,000** banking datasets.
-- Partnered with leading AI labs (OpenAI, Microsoft via Turing) delivering **RLHF** to improve **LLM Python code** generation and agentic tool-calling workflows.
+- Designed **real-time closed-loop algorithms** running **24/7** on industrial drilling rigs to detect dysfunctions, **saving millions** of dollars.
+- Architected enterprise **Data Quality automation** scanning over **1,000,000** banking datasets.
+- Partnered with leading AI labs (OpenAI, Microsoft via Turing) delivering **RLHF** to improve **LLM Python code** generation and **agentic tool-calling** workflows.
 
 
 ## Technical Skills
@@ -41,50 +42,50 @@ Data scientist with over 10 years of experience leveraging an engineering founda
 Turing Enterprises (*Remote*) \hfill Jun 2025 – Dec 2025
 
 - **LLM Code Generation Enhancement (OpenAI / Microsoft):**
-  - Addressed code hallucination and syntax errors in early frontier models (GPT-4 and o1).
-  - Designed complex coding scenarios and evaluated outputs with rigorous RLHF feedback, directly improving the generation of robust, production-grade Python code.
+  - Addressed code hallucination and syntax errors in early frontier models (**GPT-4** and **o1**).
+  - Designed complex coding scenarios and evaluated outputs with rigorous **RLHF feedback**, directly improving the generation of robust, production-grade Python code.
 - **Agentic AI Reasoning & Tool Calling (OpenAI / Microsoft):**
-  - Targeted multi-step reasoning bottlenecks and API/tool-calling failures on complex tasks (e.g., booking workflows, long-context reviews).
-  - Supervised and rectified model outputs via RLHF protocols, empowering subsequent model revisions to handle autonomous multi-step agent actions.
+  - Targeted multi-step reasoning bottlenecks and **API/tool-calling** failures on complex tasks (e.g., booking workflows, long-context reviews).
+  - Supervised and rectified model outputs via RLHF protocols, empowering subsequent model revisions to handle **autonomous multi-step agent** actions.
 
 ### **Manager, Data Quality and Innovations** 
 Bank of Nova Scotia  (*Toronto, ON*) \hfill Jun 2022 – Jul 2024
 
 - **Data Quality Automation & Pipeline Architecture:**
-  - Modernized legacy manual validation routines across more than $1,000,000$ internal banking datasets.
-  - Architected PySpark ETL pipelines aggregating data from Hadoop, DB2, GCP, and local storage.
-  - Deployed automated data profiling alongside a Pandas-based anomaly detection framework incorporating SME feedback loops for remediation.
+  - Modernized legacy manual validation routines across more than **1,000,000** internal banking datasets.
+  - Architected **PySpark ETL pipelines** aggregating data from Hadoop, DB2, GCP, and local storage.
+  - Deployed **automated Data Profiling** alongside a **Pandas-based anomaly detection** framework incorporating SME feedback loops for remediation.
   - Cut manual processing costs by **$26 million**, increased data management operational productivity by **40%**, and ensured data integrity for downstream AI products.
 
 ### **Research Engineer** 
 Pason Systems Inc. (*Calgary, AB*) \hfill Aug 2018 – Jun 2022
 
 - **Real-Time Drilling Dysfunction Detection & Mitigation Algorithm:**
-  - Designed an autonomous, closed-loop real-time time-series algorithm in Java to mitigate equipment damage while maximizing drilling speed.
+  - Designed an autonomous, **closed-loop real-time time-series algorithm** in Java to mitigate equipment damage while maximizing drilling speed.
   - Achieved a **99% dysfunction detection rate** and drove a **10% increase** in commercial product adoption.
 - **Rotary Speed Optimization for Rate-of-Penetration (ROP):**
-  - Collaborated with ExxonMobil to develop a Java-based algorithm optimizing drill bit rotary speed (RPM) in tandem with weight-on-bit (WOB).
+  - Collaborated with **ExxonMobil** to develop a Java-based algorithm **optimizing drill bit rotary speed (RPM)** in tandem with weight-on-bit (WOB).
   - Validated the system during active field trials across commercial rigs.
 - **Predictive ROP Limiting Algorithm:**
-  - Built a proactive predictive model in Java that dynamically capped ROP prior to dysfunction onset.
+  - Built a proactive predictive model in Java that **dynamically capped ROP** prior to dysfunction onset.
 - **In-House MATLAB Simulation Platform:**
-  - Created a closed-loop drilling simulator in MATLAB, reducing dependency on physical QA hardware racks and significantly shortening R&D release cycles.
+  - Created a **closed-loop drilling simulator** in MATLAB, reducing dependency on physical QA hardware racks and significantly shortening R&D release cycles.
 
 ### **Research Assistant** 
 University of Alberta (*Edmonton, AB*) \hfill Sep 2016 – Sep 2018
 
 - **Theoretical Model for Human Postural Control:**
   - Investigated disrupted neuromuscular pathways caused by stroke and neurological disorders during seated balance.
-  - Executed clinical biomechanical trials, conducted digital signal processing, and formulated a theoretical mathematical model explaining neural control of human upright sitting posture.
+  - Executed clinical biomechanical trials, conducted **digital signal processing**, and formulated a theoretical mathematical model explaining neural control of human upright sitting posture.
 
 
 ## Other Experience
 
-- **Senior Consultant** | EXL Services (*Gurgaon, HR*) \hfill Feb 2025 - Jun 2025  
+- **Senior Consultant** | EXL Services (*Gurgaon, HR*)
   Implemented automated data quality pipelines with proactive anomaly detection to minimize manual oversight.
-- **Manager** | Himalaya Developers (*Rishikesh, UK*) \hfill Jun 2024 – Feb 2025, Dec 2025 - Aug 2026  
+- **Manager** | Himalaya Developers (*Rishikesh, UK*)
   Directed end-to-end execution of two residential projects valued at \$3.2M over 18 months (procurement, licensing, civil engineering teams, financial modeling, and sales).
-- **iOS Developer** | Pakshi Inc. (*Calgary, AB*) \hfill Jan 2020 – Jan 2022  
+- **iOS Developer** | Pakshi Inc. (*Calgary, AB*)
   Engineered and shipped two native iOS applications (*More ToLife* and *RoboTask*), managing launch pipelines and digital acquisition strategies.
 
 
