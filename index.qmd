@@ -10,25 +10,26 @@ format:
       - left=0.75in
       - right=0.75in
 ---
-# \Huge Kshitij Agarwal
+\begin{center}
+    {\Huge\bfseries Kshitij Agarwal} \\[0.2em]
+    {\textbf{Data Scientist | M.Sc.}}
+\end{center}
 
-**Data Scientist**
-
-**Email:** [kshitij.agarwal.ai@gmail.com](mailto:kshitij.agarwal.ai@gmail.com) | **Phone:** +1 (672) 962-2482 | **Location:** Vancouver, BC  
-
-**LinkedIn:** [/kshitij-agarwal](http://www.linkedin.com/in/kshitij-agarwal) | **Status:** Permanent Resident of Canada   
+\begin{center}
+    {\textbf{Email:} \href{mailto:kshitij.agarwal.ai@gmail.com}{kshitij.agarwal.ai@gmail.com} | \textbf{Phone:} +1 (672) 962-2482 | \textbf{Location:} Vancouver, BC} \\[0.3em]
+    {\textbf{LinkedIn:} \href{http://www.linkedin.com/in/kshitij-agarwal}{/kshitij-agarwal} | \textbf{Status:} PR | \textbf{Portfolio:} \href{https://kshitij-agarwal-ai.github.io/}{kshitij-agarwal-ai.github.io}}
+\end{center}
 
 ## Professional Summary
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{1pt}
 
-Data scientist with over **10 years** of experience leveraging an engineering foundation to solve complex challenges through probabilistic and statistical modeling. Proven track record across domains:
-
-- Built a mathematical model of human neurological posture control.
-- Designed **real-time closed-loop algorithms** running **24/7** on industrial drilling rigs to detect dysfunctions, **saving millions** of dollars.
-- Architected enterprise **Data Quality automation** scanning over **1,000,000** banking datasets.
-- Partnered with leading AI labs (OpenAI, Microsoft via Turing) delivering **RLHF** to improve **LLM Python code** generation and **agentic tool-calling** workflows.
+Data Scientist with **10+** years of experience in **Machine Learning**, **AI**, **Data Quality**, **Statistical Modeling**, and **Real-Time Analytics**. Delivered **$26M** in cost savings through enterprise-scale data quality automation, developed **patented** industrial algorithms, and contributed to **RLHF** initiatives supporting OpenAI and Microsoft **LLM** improvements. Experienced across **Banking**, **Energy**, **Healthcare Research**, and **AI** domains.
 
 
 ## Technical Skills
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{1pt}
 
 - **Languages:** Python, SQL, R, MATLAB, Java
 - **Data & ML / AI:** Machine Learning, Statistical Modeling, RLHF, Agentic AI, PySpark, Pandas, DB2, BigQuery, Hadoop
@@ -37,8 +38,11 @@ Data scientist with over **10 years** of experience leveraging an engineering fo
 
 
 ## Relevant Experience
-
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{1pt}
+\vspace{-2em}
 ### **Senior Developer** 
+\vspace{-0.5em}
 Turing Enterprises (*Remote*) \hfill Jun 2025 – Dec 2025
 
 - **LLM Code Generation Enhancement (OpenAI / Microsoft):**
@@ -49,15 +53,17 @@ Turing Enterprises (*Remote*) \hfill Jun 2025 – Dec 2025
   - Supervised and rectified model outputs via RLHF protocols, empowering subsequent model revisions to handle **autonomous multi-step agent** actions.
 
 ### **Manager, Data Quality and Innovations** 
+\vspace{-0.5em}
 Bank of Nova Scotia  (*Toronto, ON*) \hfill Jun 2022 – Jul 2024
 
 - **Data Quality Automation & Pipeline Architecture:**
-  - Modernized legacy manual validation routines across more than **1,000,000** internal banking datasets.
+  - Modernized legacy manual validation routines across more than **1M+** internal banking datasets.
   - Architected **PySpark ETL pipelines** aggregating data from Hadoop, DB2, GCP, and local storage.
   - Deployed **automated Data Profiling** alongside a **Pandas-based anomaly detection** framework incorporating SME feedback loops for remediation.
   - Cut manual processing costs by **$26 million**, increased data management operational productivity by **40%**, and ensured data integrity for downstream AI products.
 
 ### **Research Engineer** 
+\vspace{-0.5em}
 Pason Systems Inc. (*Calgary, AB*) \hfill Aug 2018 – Jun 2022
 
 - **Real-Time Drilling Dysfunction Detection & Mitigation Algorithm:**
@@ -72,6 +78,7 @@ Pason Systems Inc. (*Calgary, AB*) \hfill Aug 2018 – Jun 2022
   - Created a **closed-loop drilling simulator** in MATLAB, reducing dependency on physical QA hardware racks and significantly shortening R&D release cycles.
 
 ### **Research Assistant** 
+\vspace{-0.5em}
 University of Alberta (*Edmonton, AB*) \hfill Sep 2016 – Sep 2018
 
 - **Theoretical Model for Human Postural Control:**
@@ -80,16 +87,20 @@ University of Alberta (*Edmonton, AB*) \hfill Sep 2016 – Sep 2018
 
 
 ## Other Experience
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{1pt}
 
-- **Senior Consultant** | EXL Services (*Gurgaon, HR*)
-  Implemented automated data quality pipelines with proactive anomaly detection to minimize manual oversight.
-- **Manager** | Himalaya Developers (*Rishikesh, UK*)
-  Directed end-to-end execution of two residential projects valued at \$3.2M over 18 months (procurement, licensing, civil engineering teams, financial modeling, and sales).
-- **iOS Developer** | Pakshi Inc. (*Calgary, AB*)
-  Engineered and shipped two native iOS applications (*More ToLife* and *RoboTask*), managing launch pipelines and digital acquisition strategies.
+- **Senior Consultant** | EXL Services (*Gurgaon, HR*)  
+  - Implemented automated data quality pipelines with proactive anomaly detection to minimize manual oversight.
+- **Manager** | Himalaya Developers (*Rishikesh, UK*)  
+  - Directed end-to-end execution of two residential projects valued at \$3.2M over 18 months (procurement, licensing, civil engineering teams, financial modeling, and sales).
+- **iOS Developer** | Pakshi Inc. (*Calgary, AB*)  
+  - Engineered and shipped two native iOS applications (*More ToLife* and *RoboTask*), managing launch pipelines and digital acquisition strategies.
 
 
 ## Education
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{1pt}
 
 - **Master of Data Science (MDS)**  
   *University of British Columbia*, Vancouver, BC \hfill 2026 – Ongoing
@@ -100,7 +111,9 @@ University of Alberta (*Edmonton, AB*) \hfill Sep 2016 – Sep 2018
 
 
 ## Patents & Credentials
-
+\vspace{-1.5em}
+\noindent\rule{\textwidth}{1pt}
+\vspace{-2em}
 ### **Patent**
 - [US11499411B2](https://patents.google.com/patent/US11499411B2/)
 
